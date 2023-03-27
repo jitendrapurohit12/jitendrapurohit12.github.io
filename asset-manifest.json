@@ -1,0 +1,23 @@
+{
+  "main.css": "/static/css/main.3fdd588a.chunk.css",
+  "main.js": "/static/js/main.987136f4.chunk.js",
+  "main.js.map": "/static/js/main.987136f4.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.137de59f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.137de59f.js.map",
+  "static/js/2.c5d34f27.chunk.js": "/static/js/2.c5d34f27.chunk.js",
+  "static/js/2.c5d34f27.chunk.js.map": "/static/js/2.c5d34f27.chunk.js.map",
+  "static/js/3.cce98eaa.chunk.js": "/static/js/3.cce98eaa.chunk.js",
+  "static/js/3.cce98eaa.chunk.js.map": "/static/js/3.cce98eaa.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.a5c23aba20551be88c2899a384d091c3.js": "/precache-manifest.a5c23aba20551be88c2899a384d091c3.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.3fdd588a.chunk.css.map": "/static/css/main.3fdd588a.chunk.css.map",
+  "static/media/chargebee.webp": "/static/media/chargebee.e607cc67.webp",
+  "static/media/dart.webp": "/static/media/dart.29271246.webp",
+  "static/media/firebase.webp": "/static/media/firebase.49bb08f7.webp",
+  "static/media/flutter.webp": "/static/media/flutter.bbba9449.webp",
+  "static/media/mail.svg": "/static/media/mail.3f5456a2.svg",
+  "static/media/map.svg": "/static/media/map.9fdf846e.svg",
+  "static/media/riverpod.webp": "/static/media/riverpod.0f7cf7fa.webp",
+  "static/media/working.png": "/static/media/working.c611f9d2.png"
+}
